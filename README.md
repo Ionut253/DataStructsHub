@@ -1,14 +1,7 @@
 # DataStructsHub
-This repository features a collection of custom containers implemented using various data structures in C++.
+***This repository showcases a collection of custom containers developed using various data structures in C++.
+***Each container is designed to facilitate key operations, including adding elements, removing elements, and searching for elements.
+***Each implementation includes iterators, enhancing flexibility for traversing and manipulating the data.
+Test Cases: The test cases for all containers were provided by the instructor of the Data Structures and Algorithms course at the university, ensuring a comprehensive evaluation of functionality.
 
-Key Features:
-Efficient Operations: Each container is designed to support efficient operations such as:
-
-Adding elements
-Deleting elements
-Finding elements
-Iterators: The implementations include iterators, providing flexibility in traversing the data.
-
-Acknowledgments:
-Test Cases: All test cases for the containers were provided by the instructor of the Data Structures and Algorithms course at the university.
-Original Work: The implementation of the containers and iterators is my own work.
+***The implementations of the containers and their associated iterators are the result of my own work and design.
